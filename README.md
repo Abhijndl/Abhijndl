@@ -34,10 +34,15 @@ I am Abhishek Jindal, currently working as a Data Analytics and  Engineer Intern
 <a href="#macropower-tech"><img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" width="48" height="48" alt="Linux" />
 </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+<a href="https://accounts.skilljar.com/accounts/profile/1ih3zgkgrbeqr?d=1ih3zgkgrbeqr&next=%2Ftableau-fundamentals"><img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-256.png" width="48" height="48" alt="Tableau" />
+</a>
+<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/79-excel-512.png" alt="figma" height='42px'/> </a>
+
 <!-- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> -->
 <!-- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> -->
 <!-- <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> -->
 <!-- <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://img.icons8.com/external-others-inmotus-design/1x/external-PHP-applications-and-programs-others-inmotus-design.png" alt="php" width="40" height="40"/> </a> -->
+
 
 ### Frameworks and Libraries
 <a href="#"><img height="50" img alt="Bootstrap" src="https://img.icons8.com/color/1x/bootstrap.png"></a>
