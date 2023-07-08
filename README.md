@@ -14,12 +14,14 @@ I am Abhishek Jindal, currently working as a Data Analytics and  Engineer Intern
 ## :computer: GitHub Profile Stats
 <a href="https://github.com/Abhijndl/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhijndl&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Nitish's github stats" /></a> |
 <a href="https://github.com/Abhijndl/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijndl&layout=compact&theme=dracula&hide_border=true" /></a>
+
 ### My Contribution Graph
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Abhijndl&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <p align="left">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Abhijndl/count.svg" />
 </p>
+
 ## :hammer_and_wrench: Skills
 ### Language
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -33,14 +35,16 @@ I am Abhishek Jindal, currently working as a Data Analytics and  Engineer Intern
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="#macropower-tech"><img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
 </a>
-<a href="#macropower-tech"><img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" width="48" height="48" alt="Powershell" />
+<a href="#macropower-tech"><img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" width="48" height="48" alt="Linux" />
 </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+
 ### Frameworks and Libraries
 <a href="#"><img height="50" img alt="Bootstrap" src="https://img.icons8.com/color/1x/bootstrap.png"></a>
 <a href="#"><img height="50" img alt="Flask" src="https://img.icons8.com/nolan/1x/flask.png"></a>
 <a href="#"><img height="50" img alt="NumPy" src="https://img.icons8.com/color/1x/numpy.png"></a>
 <a href="#"><img height="50" img alt="Pandas" src="https://img.icons8.com/color/1x/pandas.png"></a>
+
 ### Design and Development Tools
 <a href="#"><img height="40" img alt="Adobe" src="https://cdn1.iconfinder.com/data/icons/hex-ico/128/adobe.png"></a>
 <a href="#"><img height="40" img alt="Android" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Android-64.png"></a>
